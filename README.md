@@ -1,0 +1,2 @@
+# CodingNinjas-Patterns
+Patterns1
